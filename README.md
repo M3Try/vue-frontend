@@ -1,4 +1,5 @@
 # Getting Started with vue-frontend App
+This project was bootstrapped with [Vue CLI](https://cli.vuejs.org).
 
 ## Project setup
 ```
