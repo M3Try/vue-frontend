@@ -1,6 +1,8 @@
 # Getting Started with vue-frontend App
 This project was bootstrapped with [Vue CLI](https://cli.vuejs.org).
 
+![](vue-frontend.png)
+
 ## Project setup
 ```
 yarn install
