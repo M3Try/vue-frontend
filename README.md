@@ -3,6 +3,8 @@ This project was bootstrapped with [Vue CLI](https://cli.vuejs.org).
 
 ![](vue-frontend.png)
 
+Created by [dagowaksdev](https://github.com/M3Try)
+
 ## Project setup
 ```
 yarn install
